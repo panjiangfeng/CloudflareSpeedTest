@@ -1,0 +1,2 @@
+# CloudflareSpeedTest
+安卓端termux自带linux一键获取cf
